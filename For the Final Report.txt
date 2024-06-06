@@ -1,0 +1,4 @@
+data collection
+How this was setup
+How this works
+Fin the Mean Squared Error

@@ -1,0 +1,7 @@
+path : C:/Users/bryan/OneDrive/Desktop/Coding/Python/FishCounter/Data
+train : images/train
+val : images/train
+
+#Classes
+names:
+  0: Fish
